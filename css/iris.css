@@ -23,7 +23,14 @@
     }
     .banner-h1{
         font-size: 25px;
+
     }
+.sec1{
+  padding: 0px;
+}
+.sec2{
+  padding: 0px;
+}
 }
 section{
     padding: 80px;
