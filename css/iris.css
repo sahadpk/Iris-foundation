@@ -201,13 +201,20 @@ section{
 .contact-Bx p{
   color:#fff;
 }
+.contact-Bx{
+  background-color:  rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(10)px;
+  
+}
 input[type="text"],
 input[type="email"],
-input[type="date"]
+input[type="date"],
+input[type="radio"]
 {
   border: none;
   border-bottom: 2px solid #111;
   background: transparent;
+  color: #fff;
 }
 option{
   background: transparent;
